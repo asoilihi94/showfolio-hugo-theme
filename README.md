@@ -20,7 +20,7 @@ ShowFolio is a modern portfolio theme for your Hugo site.
 
 ## Get the theme
 
-Minimum Hugo Version: 0.69.0
+Minimum Hugo Version: 0.69.00
 
 Run from the root of your Hugo site:
 
